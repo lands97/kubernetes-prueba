@@ -1,3 +1,3 @@
 <?php 
-echo 'Esto es mi prueba Kubernetes init';
+echo 'Esto es mi prueba Kubernetes init por Daniel G.';
 ?>
